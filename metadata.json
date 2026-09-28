@@ -1,0 +1,7 @@
+{
+  "name": "FitBuddy - AI Workout Planner & Wearable Tracker",
+  "description": "AI-powered personalized 7-day workout plans, feedback-driven routine refinement, nutrition guidance, and smart wearable health sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
